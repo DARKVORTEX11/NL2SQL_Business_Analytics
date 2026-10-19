@@ -1,0 +1,301 @@
+customer_id,customer_name,age,city,state,customer_segment,registration_date
+C0001,Rahul Khan,33,Mumbai,Maharashtra,Premium,2025-05-23
+C0002,Vihaan Patil,55,Mumbai,Maharashtra,Regular,2025-02-02
+C0003,Aisha Reddy,32,Pune,Maharashtra,Value,2025-01-28
+C0004,Diya Iyer,32,Ahmedabad,Gujarat,Regular,2025-10-12
+C0005,Arjun Iyer,39,Pune,Maharashtra,Regular,2025-06-09
+C0006,Meera Patil,23,Nashik,Maharashtra,Regular,2025-04-10
+C0007,Meera Khan,20,Hyderabad,Telangana,Value,2026-04-16
+C0008,Aisha Iyer,23,Ahmedabad,Gujarat,Value,2025-10-28
+C0009,Meera Reddy,22,Kolkata,West Bengal,Premium,2025-08-22
+C0010,Aisha Reddy,24,Bengaluru,Karnataka,Regular,2025-10-12
+C0011,Meera Mehta,41,Chennai,Tamil Nadu,Regular,2025-08-03
+C0012,Aisha Mehta,52,Bengaluru,Karnataka,Value,2025-09-08
+C0013,Ishita Iyer,35,Nagpur,Maharashtra,Value,2026-07-25
+C0014,Meera Sharma,32,Nashik,Maharashtra,Premium,2025-11-20
+C0015,Kabir Patil,31,Delhi,Delhi,Value,2025-11-19
+C0016,Ishita Iyer,59,Nashik,Maharashtra,Regular,2025-05-27
+C0017,Arjun Reddy,53,Bengaluru,Karnataka,Value,2025-09-27
+C0018,Rohan Iyer,41,Kolkata,West Bengal,Premium,2025-05-22
+C0019,Ishita Patil,21,Ahmedabad,Gujarat,Premium,2025-06-06
+C0020,Rohan Patil,42,Nagpur,Maharashtra,Regular,2026-04-25
+C0021,Kabir Sharma,25,Ahmedabad,Gujarat,Value,2026-07-04
+C0022,Meera Patil,36,Bengaluru,Karnataka,Regular,2025-06-11
+C0023,Rahul Khan,50,Chennai,Tamil Nadu,Premium,2026-06-04
+C0024,Kabir Reddy,27,Mumbai,Maharashtra,Regular,2025-06-15
+C0025,Vihaan Sharma,56,Ahmedabad,Gujarat,Regular,2026-05-16
+C0026,Aisha Gupta,37,Pune,Maharashtra,Premium,2025-03-01
+C0027,Ananya Patil,23,Nashik,Maharashtra,Value,2026-05-13
+C0028,Vihaan Mehta,26,Mumbai,Maharashtra,Value,2026-05-02
+C0029,Arjun Khan,51,Ahmedabad,Gujarat,Value,2026-03-10
+C0030,Vihaan Reddy,37,Nashik,Maharashtra,Regular,2026-01-18
+C0031,Vihaan Joshi,25,Chennai,Tamil Nadu,Premium,2025-08-19
+C0032,Meera Sharma,55,Mumbai,Maharashtra,Value,2025-08-24
+C0033,Diya Sharma,22,Kolkata,West Bengal,Value,2025-03-02
+C0034,Aisha Sharma,39,Nashik,Maharashtra,Premium,2026-06-11
+C0035,Kabir Joshi,31,Nashik,Maharashtra,Value,2025-05-16
+C0036,Ananya Joshi,33,Kolkata,West Bengal,Regular,2026-02-21
+C0037,Aisha Patil,60,Nashik,Maharashtra,Regular,2025-12-29
+C0038,Rohan Joshi,21,Delhi,Delhi,Value,2025-04-11
+C0039,Rohan Gupta,24,Pune,Maharashtra,Premium,2025-07-16
+C0040,Vihaan Joshi,26,Nashik,Maharashtra,Regular,2025-07-07
+C0041,Ishita Reddy,22,Bengaluru,Karnataka,Regular,2026-07-18
+C0042,Rahul Sharma,23,Mumbai,Maharashtra,Premium,2025-06-20
+C0043,Ishita Joshi,31,Delhi,Delhi,Regular,2025-03-02
+C0044,Rohan Sharma,42,Nagpur,Maharashtra,Regular,2026-04-11
+C0045,Rohan Joshi,27,Bengaluru,Karnataka,Premium,2025-10-31
+C0046,Rahul Sharma,38,Nashik,Maharashtra,Premium,2025-02-21
+C0047,Ishita Mehta,21,Kolkata,West Bengal,Value,2025-03-24
+C0048,Aisha Patil,33,Nagpur,Maharashtra,Regular,2025-05-03
+C0049,Diya Sharma,57,Kolkata,West Bengal,Premium,2026-03-06
+C0050,Ananya Gupta,34,Kolkata,West Bengal,Premium,2025-11-18
+C0051,Kabir Iyer,26,Nashik,Maharashtra,Value,2025-11-04
+C0052,Meera Patil,18,Chennai,Tamil Nadu,Regular,2026-07-31
+C0053,Aisha Reddy,50,Mumbai,Maharashtra,Regular,2025-05-16
+C0054,Aisha Reddy,41,Hyderabad,Telangana,Regular,2025-06-11
+C0055,Vihaan Khan,57,Chennai,Tamil Nadu,Value,2026-06-26
+C0056,Vihaan Khan,60,Pune,Maharashtra,Premium,2025-05-18
+C0057,Aisha Patil,53,Bengaluru,Karnataka,Premium,2025-10-06
+C0058,Ananya Reddy,39,Bengaluru,Karnataka,Premium,2025-09-28
+C0059,Ishita Khan,21,Ahmedabad,Gujarat,Premium,2026-03-10
+C0060,Rahul Sharma,39,Bengaluru,Karnataka,Premium,2025-09-26
+C0061,Ishita Iyer,53,Nagpur,Maharashtra,Premium,2025-04-25
+C0062,Arjun Sharma,41,Mumbai,Maharashtra,Value,2026-07-20
+C0063,Rohan Mehta,20,Nagpur,Maharashtra,Regular,2026-01-09
+C0064,Meera Reddy,33,Pune,Maharashtra,Value,2025-04-16
+C0065,Vihaan Iyer,57,Hyderabad,Telangana,Value,2025-06-08
+C0066,Arjun Mehta,44,Nashik,Maharashtra,Premium,2025-07-03
+C0067,Rohan Reddy,35,Hyderabad,Telangana,Premium,2025-04-21
+C0068,Rahul Joshi,32,Delhi,Delhi,Premium,2026-04-17
+C0069,Kabir Reddy,32,Hyderabad,Telangana,Premium,2025-07-17
+C0070,Meera Khan,22,Delhi,Delhi,Regular,2025-12-26
+C0071,Rohan Gupta,19,Ahmedabad,Gujarat,Premium,2025-09-25
+C0072,Ananya Khan,20,Nagpur,Maharashtra,Premium,2026-03-21
+C0073,Meera Iyer,56,Hyderabad,Telangana,Value,2025-04-29
+C0074,Ananya Reddy,34,Delhi,Delhi,Premium,2026-03-23
+C0075,Vihaan Reddy,41,Pune,Maharashtra,Regular,2025-03-13
+C0076,Ananya Gupta,60,Hyderabad,Telangana,Premium,2025-11-04
+C0077,Kabir Iyer,38,Ahmedabad,Gujarat,Regular,2025-10-30
+C0078,Arjun Reddy,44,Ahmedabad,Gujarat,Value,2026-01-24
+C0079,Ananya Khan,43,Nagpur,Maharashtra,Value,2025-01-01
+C0080,Kabir Reddy,45,Bengaluru,Karnataka,Value,2025-11-26
+C0081,Ishita Joshi,31,Chennai,Tamil Nadu,Value,2026-04-30
+C0082,Aisha Khan,50,Nagpur,Maharashtra,Value,2025-12-10
+C0083,Diya Khan,32,Mumbai,Maharashtra,Premium,2025-05-31
+C0084,Rahul Reddy,48,Pune,Maharashtra,Value,2025-03-16
+C0085,Rohan Reddy,42,Chennai,Tamil Nadu,Regular,2026-02-14
+C0086,Arjun Sharma,24,Nashik,Maharashtra,Regular,2025-08-13
+C0087,Vihaan Joshi,21,Nagpur,Maharashtra,Value,2025-09-13
+C0088,Ishita Mehta,47,Mumbai,Maharashtra,Value,2026-06-28
+C0089,Ananya Gupta,46,Ahmedabad,Gujarat,Value,2026-06-01
+C0090,Vihaan Joshi,28,Delhi,Delhi,Value,2026-05-02
+C0091,Kabir Reddy,58,Chennai,Tamil Nadu,Regular,2026-06-18
+C0092,Diya Khan,46,Chennai,Tamil Nadu,Premium,2025-10-20
+C0093,Kabir Gupta,38,Nashik,Maharashtra,Value,2025-03-24
+C0094,Arjun Reddy,42,Nagpur,Maharashtra,Value,2025-06-06
+C0095,Aisha Iyer,44,Nashik,Maharashtra,Regular,2026-07-10
+C0096,Rohan Sharma,31,Chennai,Tamil Nadu,Regular,2026-02-03
+C0097,Rahul Iyer,48,Kolkata,West Bengal,Premium,2025-12-27
+C0098,Rohan Iyer,52,Bengaluru,Karnataka,Value,2026-07-14
+C0099,Diya Joshi,32,Kolkata,West Bengal,Regular,2026-03-23
+C0100,Rahul Iyer,39,Chennai,Tamil Nadu,Value,2026-02-19
+C0101,Ishita Mehta,57,Nagpur,Maharashtra,Value,2025-01-28
+C0102,Ananya Sharma,23,Delhi,Delhi,Value,2026-03-15
+C0103,Ishita Mehta,21,Nagpur,Maharashtra,Regular,2026-01-24
+C0104,Diya Joshi,38,Hyderabad,Telangana,Regular,2026-01-24
+C0105,Rohan Khan,23,Bengaluru,Karnataka,Regular,2025-01-20
+C0106,Rahul Gupta,32,Ahmedabad,Gujarat,Value,2025-03-12
+C0107,Rahul Reddy,30,Pune,Maharashtra,Premium,2025-06-06
+C0108,Arjun Joshi,60,Nashik,Maharashtra,Premium,2026-08-01
+C0109,Ishita Khan,41,Nashik,Maharashtra,Premium,2025-04-28
+C0110,Kabir Patil,55,Nagpur,Maharashtra,Premium,2025-11-16
+C0111,Rohan Iyer,30,Kolkata,West Bengal,Premium,2025-09-06
+C0112,Kabir Patil,54,Mumbai,Maharashtra,Premium,2025-12-22
+C0113,Rohan Gupta,22,Ahmedabad,Gujarat,Value,2025-12-16
+C0114,Rohan Joshi,24,Pune,Maharashtra,Regular,2026-01-06
+C0115,Arjun Iyer,29,Chennai,Tamil Nadu,Value,2026-06-19
+C0116,Ananya Joshi,47,Bengaluru,Karnataka,Regular,2025-10-02
+C0117,Diya Patil,35,Hyderabad,Telangana,Regular,2025-09-07
+C0118,Ananya Iyer,39,Chennai,Tamil Nadu,Premium,2026-05-22
+C0119,Arjun Joshi,31,Hyderabad,Telangana,Regular,2025-09-22
+C0120,Kabir Khan,53,Hyderabad,Telangana,Premium,2026-06-14
+C0121,Aisha Reddy,44,Nashik,Maharashtra,Regular,2026-07-23
+C0122,Ishita Joshi,46,Nashik,Maharashtra,Premium,2025-04-06
+C0123,Diya Iyer,33,Bengaluru,Karnataka,Regular,2026-08-19
+C0124,Ishita Gupta,45,Hyderabad,Telangana,Value,2026-07-18
+C0125,Meera Joshi,35,Hyderabad,Telangana,Regular,2025-09-15
+C0126,Aisha Reddy,38,Nashik,Maharashtra,Premium,2026-07-03
+C0127,Diya Reddy,48,Nagpur,Maharashtra,Regular,2026-06-22
+C0128,Kabir Patil,30,Kolkata,West Bengal,Regular,2025-08-21
+C0129,Arjun Khan,18,Hyderabad,Telangana,Value,2026-07-01
+C0130,Kabir Sharma,21,Nagpur,Maharashtra,Value,2025-10-27
+C0131,Ishita Patil,18,Nagpur,Maharashtra,Value,2025-10-19
+C0132,Ishita Joshi,39,Chennai,Tamil Nadu,Premium,2025-02-22
+C0133,Ishita Patil,22,Bengaluru,Karnataka,Regular,2026-05-19
+C0134,Ananya Sharma,27,Mumbai,Maharashtra,Premium,2026-07-31
+C0135,Aisha Reddy,25,Bengaluru,Karnataka,Value,2026-03-03
+C0136,Ananya Reddy,51,Kolkata,West Bengal,Regular,2026-04-07
+C0137,Kabir Iyer,37,Chennai,Tamil Nadu,Value,2025-03-03
+C0138,Aisha Reddy,58,Kolkata,West Bengal,Premium,2025-09-28
+C0139,Arjun Reddy,29,Mumbai,Maharashtra,Value,2025-03-18
+C0140,Rahul Iyer,46,Nagpur,Maharashtra,Value,2026-04-27
+C0141,Rahul Reddy,36,Bengaluru,Karnataka,Value,2025-10-17
+C0142,Aisha Reddy,34,Chennai,Tamil Nadu,Value,2025-07-22
+C0143,Aisha Reddy,59,Delhi,Delhi,Premium,2025-09-30
+C0144,Aisha Sharma,28,Nagpur,Maharashtra,Regular,2026-08-06
+C0145,Ishita Patil,47,Bengaluru,Karnataka,Value,2025-11-08
+C0146,Kabir Joshi,46,Delhi,Delhi,Premium,2025-02-10
+C0147,Meera Khan,19,Delhi,Delhi,Premium,2025-08-23
+C0148,Ananya Sharma,35,Kolkata,West Bengal,Value,2025-02-11
+C0149,Ishita Joshi,35,Nagpur,Maharashtra,Premium,2026-08-23
+C0150,Ishita Patil,48,Delhi,Delhi,Regular,2026-02-23
+C0151,Meera Patil,28,Hyderabad,Telangana,Regular,2026-02-26
+C0152,Kabir Iyer,53,Chennai,Tamil Nadu,Premium,2026-04-11
+C0153,Meera Khan,38,Mumbai,Maharashtra,Premium,2026-02-18
+C0154,Rahul Joshi,44,Ahmedabad,Gujarat,Premium,2025-07-12
+C0155,Meera Joshi,58,Ahmedabad,Gujarat,Regular,2025-02-22
+C0156,Kabir Mehta,36,Nashik,Maharashtra,Regular,2026-05-12
+C0157,Rahul Reddy,28,Mumbai,Maharashtra,Regular,2026-07-19
+C0158,Vihaan Iyer,23,Pune,Maharashtra,Premium,2025-04-27
+C0159,Aisha Mehta,49,Chennai,Tamil Nadu,Value,2025-10-26
+C0160,Kabir Iyer,48,Ahmedabad,Gujarat,Regular,2025-09-07
+C0161,Vihaan Mehta,42,Chennai,Tamil Nadu,Premium,2026-06-05
+C0162,Aisha Khan,44,Nagpur,Maharashtra,Regular,2026-06-04
+C0163,Rahul Khan,37,Bengaluru,Karnataka,Value,2026-08-17
+C0164,Arjun Joshi,52,Chennai,Tamil Nadu,Regular,2025-12-20
+C0165,Vihaan Iyer,47,Hyderabad,Telangana,Regular,2025-07-13
+C0166,Ananya Iyer,32,Nashik,Maharashtra,Regular,2025-02-14
+C0167,Ishita Iyer,42,Hyderabad,Telangana,Value,2025-06-05
+C0168,Rahul Mehta,50,Chennai,Tamil Nadu,Value,2025-12-06
+C0169,Ishita Patil,51,Mumbai,Maharashtra,Regular,2025-01-16
+C0170,Rohan Mehta,22,Nagpur,Maharashtra,Regular,2025-09-29
+C0171,Ananya Iyer,59,Hyderabad,Telangana,Premium,2025-12-03
+C0172,Rohan Gupta,58,Ahmedabad,Gujarat,Value,2026-05-15
+C0173,Rahul Patil,33,Ahmedabad,Gujarat,Value,2025-10-22
+C0174,Aisha Iyer,24,Nashik,Maharashtra,Value,2025-04-13
+C0175,Arjun Khan,19,Chennai,Tamil Nadu,Premium,2025-11-29
+C0176,Kabir Gupta,41,Pune,Maharashtra,Regular,2025-05-30
+C0177,Vihaan Iyer,54,Nashik,Maharashtra,Value,2025-07-04
+C0178,Arjun Patil,57,Nagpur,Maharashtra,Regular,2025-09-04
+C0179,Ananya Mehta,32,Chennai,Tamil Nadu,Regular,2025-09-18
+C0180,Kabir Sharma,47,Chennai,Tamil Nadu,Regular,2026-07-14
+C0181,Aisha Joshi,40,Nagpur,Maharashtra,Value,2025-11-03
+C0182,Kabir Joshi,37,Delhi,Delhi,Premium,2026-01-29
+C0183,Aisha Reddy,42,Chennai,Tamil Nadu,Value,2026-01-03
+C0184,Kabir Khan,19,Kolkata,West Bengal,Value,2026-02-10
+C0185,Rahul Sharma,56,Bengaluru,Karnataka,Value,2026-05-24
+C0186,Diya Gupta,32,Bengaluru,Karnataka,Value,2025-07-14
+C0187,Kabir Mehta,58,Kolkata,West Bengal,Premium,2025-02-10
+C0188,Ishita Sharma,55,Bengaluru,Karnataka,Regular,2025-05-15
+C0189,Kabir Gupta,44,Mumbai,Maharashtra,Premium,2025-07-25
+C0190,Vihaan Gupta,51,Nagpur,Maharashtra,Value,2025-10-07
+C0191,Kabir Joshi,36,Nagpur,Maharashtra,Value,2025-12-13
+C0192,Ishita Patil,27,Mumbai,Maharashtra,Premium,2026-02-11
+C0193,Meera Patil,43,Ahmedabad,Gujarat,Premium,2025-09-28
+C0194,Aisha Joshi,41,Ahmedabad,Gujarat,Value,2025-09-26
+C0195,Rohan Gupta,24,Kolkata,West Bengal,Value,2025-08-28
+C0196,Rahul Gupta,57,Chennai,Tamil Nadu,Premium,2025-03-06
+C0197,Kabir Iyer,25,Chennai,Tamil Nadu,Premium,2025-02-16
+C0198,Kabir Joshi,25,Pune,Maharashtra,Premium,2025-08-29
+C0199,Arjun Iyer,47,Ahmedabad,Gujarat,Regular,2026-07-08
+C0200,Ananya Mehta,44,Delhi,Delhi,Value,2025-04-12
+C0201,Ananya Iyer,35,Chennai,Tamil Nadu,Premium,2026-01-15
+C0202,Ishita Joshi,33,Nashik,Maharashtra,Regular,2025-04-12
+C0203,Vihaan Gupta,21,Hyderabad,Telangana,Regular,2025-10-10
+C0204,Aisha Joshi,23,Nashik,Maharashtra,Value,2025-08-06
+C0205,Rahul Sharma,39,Kolkata,West Bengal,Premium,2025-05-09
+C0206,Diya Patil,53,Kolkata,West Bengal,Premium,2026-08-24
+C0207,Diya Gupta,27,Nashik,Maharashtra,Value,2025-01-03
+C0208,Arjun Mehta,52,Bengaluru,Karnataka,Regular,2025-06-28
+C0209,Rahul Mehta,18,Mumbai,Maharashtra,Regular,2025-09-01
+C0210,Meera Sharma,29,Kolkata,West Bengal,Regular,2025-02-23
+C0211,Rohan Patil,22,Nagpur,Maharashtra,Regular,2026-04-05
+C0212,Vihaan Patil,46,Hyderabad,Telangana,Value,2025-08-15
+C0213,Rahul Khan,47,Kolkata,West Bengal,Value,2025-02-01
+C0214,Ishita Iyer,45,Pune,Maharashtra,Value,2025-04-21
+C0215,Ishita Patil,23,Chennai,Tamil Nadu,Regular,2025-06-01
+C0216,Arjun Khan,57,Mumbai,Maharashtra,Value,2026-08-23
+C0217,Meera Iyer,56,Ahmedabad,Gujarat,Value,2025-10-29
+C0218,Vihaan Iyer,24,Chennai,Tamil Nadu,Value,2025-04-28
+C0219,Diya Iyer,46,Ahmedabad,Gujarat,Premium,2026-02-28
+C0220,Ishita Iyer,44,Hyderabad,Telangana,Value,2025-04-08
+C0221,Rohan Gupta,60,Hyderabad,Telangana,Regular,2026-01-19
+C0222,Ishita Patil,23,Nagpur,Maharashtra,Premium,2025-04-06
+C0223,Aisha Gupta,26,Delhi,Delhi,Value,2025-03-03
+C0224,Vihaan Gupta,60,Kolkata,West Bengal,Premium,2026-02-25
+C0225,Rohan Sharma,36,Hyderabad,Telangana,Value,2025-11-16
+C0226,Aisha Reddy,27,Hyderabad,Telangana,Value,2026-05-09
+C0227,Aisha Gupta,53,Nashik,Maharashtra,Regular,2025-04-28
+C0228,Ananya Reddy,45,Bengaluru,Karnataka,Value,2026-07-25
+C0229,Ananya Khan,19,Pune,Maharashtra,Premium,2025-10-07
+C0230,Meera Gupta,18,Bengaluru,Karnataka,Premium,2025-05-27
+C0231,Rohan Patil,27,Kolkata,West Bengal,Value,2025-02-01
+C0232,Vihaan Reddy,42,Mumbai,Maharashtra,Regular,2026-04-10
+C0233,Arjun Gupta,37,Hyderabad,Telangana,Value,2025-11-29
+C0234,Ananya Patil,21,Kolkata,West Bengal,Premium,2025-06-11
+C0235,Rahul Patil,35,Kolkata,West Bengal,Regular,2026-03-11
+C0236,Ananya Joshi,44,Chennai,Tamil Nadu,Regular,2025-08-09
+C0237,Aisha Gupta,45,Ahmedabad,Gujarat,Premium,2025-10-18
+C0238,Ishita Khan,20,Kolkata,West Bengal,Premium,2026-02-09
+C0239,Rahul Sharma,31,Kolkata,West Bengal,Regular,2025-08-05
+C0240,Kabir Khan,38,Nagpur,Maharashtra,Premium,2025-01-08
+C0241,Rohan Mehta,26,Chennai,Tamil Nadu,Regular,2026-06-30
+C0242,Vihaan Gupta,22,Nashik,Maharashtra,Regular,2025-02-13
+C0243,Rahul Joshi,22,Delhi,Delhi,Regular,2026-08-13
+C0244,Ananya Iyer,58,Delhi,Delhi,Regular,2025-10-24
+C0245,Rohan Sharma,38,Mumbai,Maharashtra,Premium,2026-04-17
+C0246,Aisha Iyer,24,Hyderabad,Telangana,Premium,2026-03-23
+C0247,Rohan Patil,43,Kolkata,West Bengal,Regular,2025-12-14
+C0248,Meera Mehta,22,Nashik,Maharashtra,Value,2025-04-27
+C0249,Vihaan Reddy,40,Ahmedabad,Gujarat,Regular,2025-06-01
+C0250,Aisha Mehta,34,Nashik,Maharashtra,Premium,2025-06-27
+C0251,Arjun Patil,29,Kolkata,West Bengal,Value,2026-05-21
+C0252,Ananya Joshi,54,Chennai,Tamil Nadu,Value,2025-11-27
+C0253,Arjun Joshi,22,Hyderabad,Telangana,Regular,2026-03-29
+C0254,Kabir Sharma,40,Bengaluru,Karnataka,Value,2025-03-17
+C0255,Ishita Joshi,20,Bengaluru,Karnataka,Premium,2026-01-13
+C0256,Aisha Patil,57,Bengaluru,Karnataka,Value,2026-06-04
+C0257,Ishita Sharma,46,Delhi,Delhi,Value,2025-07-12
+C0258,Ananya Joshi,50,Hyderabad,Telangana,Premium,2025-03-05
+C0259,Aisha Gupta,23,Chennai,Tamil Nadu,Value,2025-06-26
+C0260,Diya Joshi,46,Pune,Maharashtra,Value,2026-06-20
+C0261,Arjun Gupta,41,Kolkata,West Bengal,Regular,2026-02-01
+C0262,Meera Sharma,58,Delhi,Delhi,Value,2025-12-09
+C0263,Meera Patil,53,Mumbai,Maharashtra,Value,2026-01-31
+C0264,Kabir Mehta,39,Bengaluru,Karnataka,Premium,2026-08-20
+C0265,Meera Khan,59,Nagpur,Maharashtra,Value,2026-02-06
+C0266,Ananya Patil,37,Nagpur,Maharashtra,Value,2026-01-21
+C0267,Arjun Patil,59,Hyderabad,Telangana,Value,2026-03-10
+C0268,Meera Sharma,41,Ahmedabad,Gujarat,Regular,2025-07-04
+C0269,Meera Joshi,30,Nashik,Maharashtra,Premium,2025-05-21
+C0270,Aisha Khan,24,Nagpur,Maharashtra,Value,2026-07-07
+C0271,Rahul Gupta,57,Ahmedabad,Gujarat,Premium,2026-01-21
+C0272,Arjun Mehta,57,Nagpur,Maharashtra,Premium,2026-03-25
+C0273,Rohan Gupta,33,Pune,Maharashtra,Regular,2025-10-19
+C0274,Diya Reddy,37,Chennai,Tamil Nadu,Regular,2025-07-18
+C0275,Ananya Joshi,47,Hyderabad,Telangana,Regular,2026-01-27
+C0276,Vihaan Iyer,28,Ahmedabad,Gujarat,Premium,2025-05-22
+C0277,Rahul Joshi,41,Bengaluru,Karnataka,Value,2025-04-16
+C0278,Aisha Khan,23,Ahmedabad,Gujarat,Premium,2025-10-07
+C0279,Vihaan Mehta,45,Chennai,Tamil Nadu,Premium,2025-08-16
+C0280,Meera Sharma,44,Chennai,Tamil Nadu,Premium,2026-02-10
+C0281,Meera Reddy,42,Ahmedabad,Gujarat,Premium,2026-01-19
+C0282,Rahul Gupta,24,Nashik,Maharashtra,Value,2025-12-10
+C0283,Arjun Sharma,36,Nagpur,Maharashtra,Regular,2025-05-23
+C0284,Ishita Sharma,23,Chennai,Tamil Nadu,Premium,2025-09-20
+C0285,Arjun Iyer,25,Nashik,Maharashtra,Regular,2025-09-01
+C0286,Aisha Sharma,33,Bengaluru,Karnataka,Regular,2026-04-14
+C0287,Aisha Joshi,56,Mumbai,Maharashtra,Value,2025-01-17
+C0288,Ananya Reddy,27,Ahmedabad,Gujarat,Regular,2026-03-16
+C0289,Ananya Gupta,33,Pune,Maharashtra,Value,2026-03-03
+C0290,Aisha Gupta,22,Nagpur,Maharashtra,Value,2026-07-12
+C0291,Vihaan Sharma,42,Ahmedabad,Gujarat,Regular,2025-02-14
+C0292,Meera Khan,19,Delhi,Delhi,Regular,2025-03-11
+C0293,Diya Patil,55,Hyderabad,Telangana,Value,2025-12-07
+C0294,Rahul Gupta,52,Nagpur,Maharashtra,Regular,2025-06-29
+C0295,Ishita Mehta,26,Chennai,Tamil Nadu,Premium,2026-04-14
+C0296,Kabir Reddy,20,Pune,Maharashtra,Premium,2025-02-12
+C0297,Kabir Iyer,52,Hyderabad,Telangana,Regular,2025-09-17
+C0298,Diya Khan,40,Pune,Maharashtra,Premium,2025-12-06
+C0299,Aisha Gupta,45,Bengaluru,Karnataka,Regular,2026-03-27
+C0300,Meera Mehta,49,Delhi,Delhi,Value,2026-05-25

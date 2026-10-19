@@ -1,0 +1,1 @@
+-- Populated database is business.db. Tables: customers, products, employees, orders, payments.

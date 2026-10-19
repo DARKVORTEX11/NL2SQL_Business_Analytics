@@ -1,0 +1,1 @@
+Industry sample adapted: Streamlit UI -> FastAPI -> schema-aware NL-to-SQL -> SQL validator -> relational database -> analytics result -> user output. The document RAG ingestion pipeline is not copied because this project queries structured relational data.

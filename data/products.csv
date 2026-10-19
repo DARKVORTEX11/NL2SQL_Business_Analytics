@@ -1,0 +1,21 @@
+product_id,product_name,category,price,cost
+P001,Laptop Pro,Electronics,40194,24874
+P002,Smartphone X,Electronics,45977,34831
+P003,Smart Watch,Electronics,9489,6214
+P004,Wireless Earbuds,Electronics,8323,5972
+P005,Tablet Air,Electronics,18250,12626
+P006,Office Chair,Furniture,27228,21850
+P007,Standing Desk,Furniture,33377,22290
+P008,Bookshelf,Furniture,29254,20886
+P009,Conference Table,Furniture,66570,47832
+P010,Ergonomic Desk,Furniture,64394,46004
+P011,Air Purifier,Home Appliances,36697,30103
+P012,Coffee Maker,Home Appliances,35300,23905
+P013,Mixer Grinder,Home Appliances,38785,29304
+P014,Microwave Oven,Home Appliances,5624,4559
+P015,Vacuum Cleaner,Home Appliances,58879,42580
+P016,Backpack,Accessories,53719,34425
+P017,USB-C Hub,Accessories,57653,45325
+P018,Power Bank,Accessories,3590,2840
+P019,Mechanical Keyboard,Accessories,61134,40617
+P020,Webcam HD,Accessories,35881,29516
